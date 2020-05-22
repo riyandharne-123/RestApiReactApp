@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RestApiReactApp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/RestApiReactApp/static/js/main.07e130dd.chunk.js",
+    "main.js.map": "/RestApiReactApp/static/js/main.07e130dd.chunk.js.map",
+    "runtime-main.js": "/RestApiReactApp/static/js/runtime-main.b7184af2.js",
+    "runtime-main.js.map": "/RestApiReactApp/static/js/runtime-main.b7184af2.js.map",
+    "static/js/2.e1e4f405.chunk.js": "/RestApiReactApp/static/js/2.e1e4f405.chunk.js",
+    "static/js/2.e1e4f405.chunk.js.map": "/RestApiReactApp/static/js/2.e1e4f405.chunk.js.map",
+    "index.html": "/RestApiReactApp/index.html",
+    "precache-manifest.a47930f80f52970d9ccd91a45b5a3f0b.js": "/RestApiReactApp/precache-manifest.a47930f80f52970d9ccd91a45b5a3f0b.js",
+    "service-worker.js": "/RestApiReactApp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/RestApiReactApp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e1e4f405.chunk.js.LICENSE.txt": "/RestApiReactApp/static/js/2.e1e4f405.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7184af2.js",
+    "static/js/2.e1e4f405.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.07e130dd.chunk.js"
+  ]
+}
